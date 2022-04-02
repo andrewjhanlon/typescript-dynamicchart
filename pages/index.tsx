@@ -1,4 +1,4 @@
-// MINERVA TEST CODING EXERCISE
+// TEST CODING EXERCISE
 // AUTHOR: ANDREW HANLON
 // 2022-04-01
 import React, { useState } from "react";
@@ -92,9 +92,9 @@ const Home: NextPage = () => {
       return (
       <div className={styles.container}>
             <Head>
-              <title>Minerva Plot</title>
+              <title>Plot</title>
               <meta name="plot" content="" />
-              <link rel="icon" href="/Minervalogo.webp" />
+              <link rel="icon" href="" />
             </Head>
 
             <main className={styles.main}>
@@ -209,8 +209,8 @@ const Home: NextPage = () => {
             <footer className={styles.footer}>
                 Powered by{' Andy!'}
                 <span className={styles.logo}>
-                  <a href="https://minervaintelligence.com/" target="_blank">
-                    <Image src="/Minervalogo.webp" alt="Minerva Logo" width={72} height={16} />
+                  <a href="" target="_blank">
+                    <Image src="" alt="" width={72} height={16} />
                   </a>
                 </span>
             </footer>
